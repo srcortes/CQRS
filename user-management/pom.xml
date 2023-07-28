@@ -10,9 +10,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>user.cmd.api</module>
-        <module>user.core</module>
-        <module>user.query.api</module>
+            <module>user.core</module>
+            <module>user.cmd.api</module>
+            <module>user.query.api</module>
     </modules>
 
 </project>
