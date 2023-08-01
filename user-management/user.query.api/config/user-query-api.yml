@@ -1,3 +1,10 @@
 ---
 component:
   scan: com.springbank.user.cmd.api
+
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: user

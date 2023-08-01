@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="332de7fa-90e9-471f-87e5-5d37d99a4d42" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.cmd.api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user.cmd.api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.cmd.api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user.cmd.api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.cmd.api/target/user.cmd.api-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/user.cmd.api/target/user.cmd.api-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.cmd.api/user.cmd.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/user.cmd.api/user.cmd.api.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user.core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.core/target/user.core-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/user.core/target/user.core-1.0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.core/user.core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/user.core/user.core.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.query.api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user.query.api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.query.api/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user.query.api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.query.api/target/user.query.api-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/user.query.api/target/user.query.api-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.query.api/user.query.api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/user.query.api/user.query.api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/config/user-cmd-api.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user.cmd.api/config/user-cmd-api.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.query.api/config/user-query-api.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user.query.api/config/user-query-api.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +69,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/IdeaProjects/Cqrs/user-management",
+    "last_opened_file_path": "E:/IdeaProjects/MicroServicios/springboot-servicio-productos",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
