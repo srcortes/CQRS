@@ -11,6 +11,12 @@
         <module name="user.cmd.api" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="user-management" target="1.5" />
+      <module name="user.cmd.api" target="1.8" />
+      <module name="user.core" target="1.8" />
+      <module name="user.query.api" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
