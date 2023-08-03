@@ -1,0 +1,11 @@
+---
+spring:
+  application:
+    name: user-core-api
+  profiles:
+    active: dev
+  config:
+    name: ${spring.application.name}
+  cloud:
+    config:
+      uri: http://localhost:8888
