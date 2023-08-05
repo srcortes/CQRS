@@ -1,4 +1,7 @@
+E:\IdeaProjects\Cqrs\user-management\user.cmd.api\src\main\java\com\springbank\user\cmd\api\security\PasswordEncoderImpl.java
 E:\IdeaProjects\Cqrs\user-management\user.cmd.api\src\main\java\com\springbank\user\cmd\api\UserCommandApplication.java
+E:\IdeaProjects\Cqrs\user-management\user.cmd.api\src\main\java\com\springbank\user\cmd\api\aggregates\UserAggregate.java
 E:\IdeaProjects\Cqrs\user-management\user.cmd.api\src\main\java\com\springbank\user\cmd\api\commands\UpdateUserCommand.java
 E:\IdeaProjects\Cqrs\user-management\user.cmd.api\src\main\java\com\springbank\user\cmd\api\commands\RegisterUserCommand.java
 E:\IdeaProjects\Cqrs\user-management\user.cmd.api\src\main\java\com\springbank\user\cmd\api\commands\RemoveUserCommand.java
+E:\IdeaProjects\Cqrs\user-management\user.cmd.api\src\main\java\com\springbank\user\cmd\api\security\PasswordEncoder.java

@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="332de7fa-90e9-471f-87e5-5d37d99a4d42" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/user.core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.core/target/user.core-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/user.core/target/user.core-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/aggregates/UserAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/user.cmd.api/src/main/java/com/springbank/user/cmd/api/aggregates/UserAggregate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/IdeaProjects/Cqrs/user-management",
+    "last_opened_file_path": "E:/IdeaProjects/Java11",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
