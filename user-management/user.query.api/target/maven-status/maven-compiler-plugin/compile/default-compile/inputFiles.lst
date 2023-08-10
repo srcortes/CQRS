@@ -1,1 +1,4 @@
 E:\IdeaProjects\Cqrs\user-management\user.query.api\src\main\java\com\springbank\user\query\api\UserQueryApplication.java
+E:\IdeaProjects\Cqrs\user-management\user.query.api\src\main\java\com\springbank\user\query\api\handlers\UserEventHandler.java
+E:\IdeaProjects\Cqrs\user-management\user.query.api\src\main\java\com\springbank\user\query\api\repositories\UserRepository.java
+E:\IdeaProjects\Cqrs\user-management\user.query.api\src\main\java\com\springbank\user\query\api\handlers\UserEventHandlerImpl.java
